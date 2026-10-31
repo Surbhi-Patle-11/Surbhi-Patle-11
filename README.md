@@ -51,15 +51,15 @@
 ## 📊 GitHub Analytics
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
+
+<h2 align="center">📊 My GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Surbhi-Patle-11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Surbhi-Patle-11&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Surbhi-Patle-11&theme=tokyonight&hide_border=true&card_width=800" width="100%" alt="GitHub Contribution Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Surbhi-Patle-11&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surbhi-Patle-11&layout=compact&theme=tokyonight&hide_border=true&card_width=800" width="100%" alt="Most Used Languages" />
 </p>
 
 
