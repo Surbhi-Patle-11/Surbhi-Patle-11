@@ -65,14 +65,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surbhi-Patle-11&theme=tokyonight" width="100%" alt="Contribution Activity" />
-</p>
 
 
 ---
