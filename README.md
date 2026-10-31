@@ -20,15 +20,27 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 CSE Graduate passionate about Frontend Development
-- 🔭 Currently building my [Personal Portfolio Website](https://github.com/Surbhi-Patle-11/personal-portfolio)
-- 🌱 Currently learning **JavaScript, React.js & Tailwind CSS**
-- 💡 Interested in creating responsive and user-friendly websites
-- 👯 Open to collaborating on beginner-friendly frontend projects
-- 🎯 Working towards becoming a skilled Frontend Developer
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/surbhipatle/)
+
+## 👩‍💻 About Me
+
+🎓 CSE Graduate | Aspiring Frontend Developer
+
+- 🔭 Building my [Personal Portfolio Website](https://github.com/Surbhi-Patle-11/personal-portfolio)
+- 🌱 Learning JavaScript, React.js & Tailwind CSS
+- 💻 Enjoy building responsive and user-friendly web interfaces
+- 🧩 Focused on strengthening JavaScript fundamentals and problem-solving
+- 🤖 Exploring AI-assisted development to improve productivity and learning
+- 📚 Believe in learning by building projects and improving through feedback
+- 👯 Open to collaborating on beginner-friendly and real-world projects
+- 🎯 Seeking an opportunity to grow as a Frontend Developer
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/surbhipatle/)
+
+
 
 ---
+
+
+
 
 ## 🛠️ Languages & Tools
 
@@ -60,9 +72,13 @@
   <img src="https://streak-stats.demolab.com/?user=Surbhi-Patle-11&theme=tokyonight&hide_border=true&card_width=800" width="100%" alt="GitHub Contribution Stats" />
 </p>
 
+
+<h2 align="center">📊 Most Used Languages</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surbhi-Patle-11&layout=compact&theme=tokyonight&hide_border=true&card_width=800" width="100%" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surbhi-Patle-11&theme=tokyonight" width="100%" alt="Most Used Languages" />
 </p>
+
 
 
 ---
@@ -81,29 +97,65 @@
 
 ---
 
-## 🌟 Featured Projects
+## 💡 What I Bring to the Table
+
+- **Responsive Design:** Creating layouts for different screen sizes
+- **Frontend Fundamentals:** HTML, CSS, JavaScript & React
+- **Component-Based Development:** Building reusable React components
+- **Problem Solving:** Breaking problems into smaller, manageable tasks
+- **Continuous Learning:** Improving my skills through hands-on projects
+- **AI-Assisted Learning:** Exploring AI tools for debugging, understanding concepts, and improving code while learning the fundamentals
+
+
+---
+
+## 🤖 AI & Development
+
+- Exploring AI tools to improve my development workflow
+- Using AI to understand concepts and debug code
+- Learning to review and verify AI-generated code
+- Focused on combining AI tools with strong programming fundamentals
+- Interested in how AI can make development more efficient and creative
 
 
 
 
 
-<p align="center">
-  <a href="https://github.com/Surbhi-Patle-11/personal-portfolio">
-    <img src="https://img.shields.io/badge/Personal_Portfolio-Visit_Project-purple?style=for-the-badge&logo=github" alt="Personal Portfolio Project" />
-  </a>
-</p>
+
+
+
+
+---
+
+## 🚀 Projects
+
+### 🌐 Personal Portfolio Website
+A responsive personal portfolio website to showcase my skills, projects, and journey as a frontend developer.
+
+**Tech Stack:** HTML | CSS | 
+
+- Designed a personal space to showcase my development journey
+- Focused on responsive layouts and clean UI
+- Continuously improving the design and functionality
+
+[🔗 View Repository](https://github.com/Surbhi-Patle-11/personal-portfolio)
+
 
 
 <!-- Add more project cards here when you have more completed projects -->
 
 ---
 
-## 🏆 Achievements & Highlights
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Public_Repositories-Explore-blue?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/followers/Surbhi-Patle-11?style=for-the-badge&color=purple&logo=github" alt="GitHub Followers" />
-</p>
+---
+
+## 📌 My Learning Journey
+
+- Strengthening JavaScript fundamentals
+- Practicing React components and routing
+- Building responsive interfaces with CSS and Tailwind
+- Developing projects independently instead of only following tutorials
+- Preparing to contribute to real-world frontend projects
 
 ---
 
