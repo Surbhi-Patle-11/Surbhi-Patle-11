@@ -5,7 +5,7 @@
   <img src="https://github.com/Surbhi-Patle-11.png" width="150" height="150" alt="Surbhi Patle" />
 </p>
 
-<h3 align="center">Aspiring Frontend Developer | CSE Graduate</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Frontend+Developer;Learning+JavaScript+%26+React;Building+Beautiful+Web+Projects;Growing+Every+Day+%F0%9F%9A%80" alt="Typing animation" />
