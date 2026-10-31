@@ -42,22 +42,30 @@
 
 ## 📊 GitHub Analytics
 
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surbhi-Patle-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Surbhi-Patle-11&theme=tokyonight&hide_border=true" height="180" alt="Contribution Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Surbhi-Patle-11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Surbhi-Patle-11&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surbhi-Patle-11&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Surbhi-Patle-11&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
+
 
 ---
 
 ## 📈 Contribution Activity
 
+
+<h2 align="center">📈 Contribution Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surbhi-Patle-11&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surbhi-Patle-11&theme=tokyonight" width="100%" alt="Contribution Activity" />
 </p>
+
 
 ---
 
@@ -71,11 +79,15 @@
 
 ## 🌟 Featured Projects
 
+
+<h2 align="center">🌟 Featured Projects</h2>
+
 <p align="center">
   <a href="https://github.com/Surbhi-Patle-11/personal-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Surbhi-Patle-11&repo=personal-portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio Project" />
+    <img src="https://img.shields.io/badge/Personal_Portfolio-Visit_Project-purple?style=for-the-badge&logo=github" alt="Personal Portfolio Project" />
   </a>
 </p>
+
 
 <!-- Add more project cards here when you have more completed projects -->
 
