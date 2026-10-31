@@ -73,11 +73,7 @@
 </p>
 
 
-<h2 align="center">📊 Most Used Languages</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surbhi-Patle-11&theme=tokyonight" width="100%" alt="Most Used Languages" />
-</p>
 
 
 
