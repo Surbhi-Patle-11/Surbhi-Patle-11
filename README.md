@@ -1,12 +1,20 @@
-# Hi 👋, I'm Surbhi Patle
+
+<h1 align="center">Hi 👋, I'm Surbhi Patle</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;Learning+JavaScript+%26+React;Building+Projects+and+Growing+Every+Day" alt="Typing SVG" />
+  <img src="https://github.com/Surbhi-Patle-11.png" width="150" height="150" alt="Surbhi Patle" />
+</p>
+
+<h3 align="center">Aspiring Frontend Developer | CSE Graduate</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Frontend+Developer;Learning+JavaScript+%26+React;Building+Beautiful+Web+Projects;Growing+Every+Day+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surbhi-Patle-11&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Surbhi-Patle-11&label=Profile%20Views&color=purple&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 ---
 
