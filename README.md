@@ -71,8 +71,11 @@
 
 ## 🐍 Contribution Snake
 
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Surbhi-Patle-11/Surbhi-Patle-11/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Surbhi-Patle-11/Surbhi-Patle-11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
