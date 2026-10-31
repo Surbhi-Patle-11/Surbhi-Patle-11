@@ -33,7 +33,7 @@
 ## 🛠️ Languages & Tools
 
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -55,7 +55,6 @@
 
 
 
-<h2 align="center">📊 My GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Surbhi-Patle-11&theme=tokyonight&hide_border=true&card_width=800" width="100%" alt="GitHub Contribution Stats" />
@@ -75,7 +74,6 @@
 ## 🐍 Contribution Snake
 
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Surbhi-Patle-11/Surbhi-Patle-11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
@@ -86,7 +84,8 @@
 ## 🌟 Featured Projects
 
 
-<h2 align="center">🌟 Featured Projects</h2>
+
+
 
 <p align="center">
   <a href="https://github.com/Surbhi-Patle-11/personal-portfolio">
